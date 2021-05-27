@@ -5,4 +5,4 @@ Git tracks changes.
 Go Lakers!
 Lakers have won the game!
 Test credential helper.
-Createa new branch is quick.
+Create new branch is quick & simple.
