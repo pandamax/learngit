@@ -8,3 +8,4 @@ Test credential helper.
 Create a new branch is quick and simple.
 Developing for the first task,but not finished.
 ......
+add a env.txt
