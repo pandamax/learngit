@@ -7,4 +7,3 @@ Lakers have won the game!
 Test credential helper.
 Another computer test!
 Remote push succeed!
-`./onnx_converter.sh`
